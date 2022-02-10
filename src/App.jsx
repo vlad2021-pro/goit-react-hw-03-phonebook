@@ -59,7 +59,7 @@ class App extends React.Component {
      
    }
 
-    console.log(parsedContacts)
+    
   }
 
 
